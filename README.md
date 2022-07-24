@@ -1,4 +1,4 @@
-# Analyse-des-reservations-AIRBNB
+# Analyse-des-reservations-AirBNB
 
 ## Comment les réservations AIRBNB sont-elles influencées par la ville, le type de logement, la réservation instantanée ou le statut de super-hôte?
 
